@@ -6,13 +6,11 @@
 .header {
     display: flex;
     justify-content: space-around;
-    /* border: 2px solid black; */
     height: 60px;
     width: 100%;
     color: white;
     background-color: #800020;
     align-items: center;
-    /* #D8BFD8  #fbe3e8  #d0bdf4  #e5eaf5  #E6E6FA #DDA0DD #e9bfe9*/
     position: fixed;
 }
 
@@ -39,14 +37,12 @@ header span {
 .home {
     color: black;
     display: flex;
-    /* justify-content: space-around; */
     background-color:#ffffff;
     height: 640px;
     align-items: center;
 }
 
 .homeimg img {
-    /* border: 2px solid white; */
     height: 300px;
     width: 300px;
     border-radius: 50%;
@@ -55,7 +51,6 @@ header span {
 }
 
 .homecontent {
-    /* border: 2px solid black; */
     width: 750px;
     margin-left: 60px;
     margin-top: 30px;
@@ -86,7 +81,6 @@ header span {
 }
 
 .aboutcontent1 {
-    /* border: 2px solid black; */
     margin-left: 300px;
     width: 850px;
     margin-top: 25px;
@@ -102,18 +96,11 @@ header span {
 .heading {
     margin-top: 45px;
     font-size: 30px;
-    /* border: 2px solid black; */
 }
 
 .aboutcontent2 {
     display: flex;
-    /* border: 2px solid black;  */
-    /* background-color: #C19A6B; */
-    /* background-color: #E5AA70; */
-    /* background-color: #F0E68C; */
     background-color: #D2B48C;
-    /* background-color: #F5DEB3; */
-    /* background-color: #C4A484; */
     margin-top: 40px;
     height: 370px;
     align-items: center;
@@ -123,7 +110,6 @@ header span {
 }
 
 .firstpart {
-    /* border: 1px solid black; */
     width: 600px;
     padding-bottom: 70px;
     padding-top: 50px;
@@ -139,7 +125,6 @@ header span {
 }
 
 .secondpart {
-    /* border: 1px solid black; */
     height: 350px;
     margin-right: 40px;
     width: 1500px;
@@ -149,7 +134,6 @@ header span {
     padding-bottom: 5px;
     padding-right: 20px;
     margin-top: 40px;
-    /* margin-left: 1px; */
 }
 
 .secondpart p {
@@ -162,7 +146,6 @@ header span {
 }
 
 .skillstitle {
-    /* border: 1px solid black; */
     margin-top: 70px;
     display: flex;
     justify-content: center;
@@ -179,7 +162,6 @@ header span {
     margin-top: 15px;
     display: flex;
     justify-content: space-around;
-    /* border: 1px solid black ; */
 }
 
 .skillcontainer2 {
@@ -187,11 +169,9 @@ header span {
     width: 100%;
     display: flex;
     justify-content: space-around;
-    /* border: 2px solid black ; */
 }
 
 .item {
-    /* border: 2px solid black; */
     margin: 10px;
     padding: 3px;
     width: 350px;
@@ -201,7 +181,6 @@ header span {
 }
 
 .skillbox p {
-    /* border: 1px solid black; */
     margin-left: 10px;
     margin-top: 5px;
 }
@@ -215,7 +194,6 @@ header span {
 }
 
 .skillheading {
-    /* border: 2px solid black; */
     display: flex;
     justify-content: center;
     margin-top: 1px;
@@ -237,7 +215,6 @@ header span {
 }
 
 .myprojects {
-    /* border: 1px solid black; */
     margin-top: 90px;
     display: flex;
     justify-content: center;
@@ -248,7 +225,6 @@ header span {
 }
 
 .projectcontainer {
-    /* border: 1px solid black; */
     height: 480px;
     display: flex;
     justify-content: space-evenly;
@@ -256,23 +232,19 @@ header span {
 }
 
 .projectbox {
-    /* border: 1px solid black; */
     background-color: #D2B48C;
     width: 350px;
     height: 370px;
     display: flex;
     flex-direction: column;
     align-items: center;
-
 }
 
 .projecttitle {
-    /* border: 1px solid black; */
     margin-top: 40px;
 }
 
 .projectcontent {
-    /* border: 1px solid black; */
     margin-top: 40px;
     padding: 20px;
 }
@@ -282,7 +254,6 @@ header span {
     height: 639px;
 }
 .mycontacts {
-    /* border: 1px solid black; */
     display: flex;
     justify-content: center;
     margin-top: 80px;
@@ -291,7 +262,6 @@ header span {
     font-size: 30px;
 }
 .contactpage {
-    /* border: 1px solid black; */
     margin-left: 50px;
     margin-right: 50px;
     height: 220px;
@@ -299,7 +269,6 @@ header span {
     display: flex;
 }    
 .contactform1 {
-    /* border: 1px solid black; */
     width: 400px;
     margin-left: 200px;
     height: 180px;
@@ -313,7 +282,6 @@ input {
     padding: 4px 5px;
 }
 .contactform2 {
-    /* border: 1px solid black; */
     margin-left: 20px;
     width: 450px;
     height: 180px;
@@ -333,13 +301,9 @@ button {
     padding: 3px;
     height: 30px;
 }
-/* button:hover {
-    background-color: #E6E6FA;
-}   */
 .footer {
     margin-top: 100px;
     background-color:#D2B48C ;
-    /* border: 1px solid black; */
     margin-top: 100px;
     height: 181px;
     display: flex;
@@ -347,19 +311,15 @@ button {
     align-items: center;
 }
 .socialicons{
-    /* border: 1px solid black; */
     font-size: 35px;
     margin-top: 40px;
 }
 .socialicons a {
-    /* border: 1px solid black; */
     margin-left: 10px;
     margin-right: 10px;
 }
 
 .copyright {
-    /* border: 1px solid black; */
     margin-top: 20px;
     font-size: 20px;
-    
 }
